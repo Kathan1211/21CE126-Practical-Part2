@@ -1,7 +1,4 @@
-LINK: https://github.com/21ce003/ASSIGNMENT2/blob/main/Circle.java
-Code:
-
- //21CE126 Kathan Shah 
+//21CE126 Kathan Shah 
 import java.util.Scanner;
 
  public class Circle {
